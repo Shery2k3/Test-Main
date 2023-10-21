@@ -3,7 +3,6 @@ import {
   ExpenseItem,
   ExpenseDate,
   ExpenseTitle,
-  ExpensePrice,
   EditButton,
   DeleteButton,
 } from './styled'; // Import the styled components
